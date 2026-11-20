@@ -7,3 +7,4 @@ function updateclock() {
 //Run once now, then repeat every 1000ms
 updateclock();
 setInterval(updateclock, 1000);
+// Part 3 Script Baseline
