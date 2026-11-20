@@ -8,3 +8,5 @@ function updateclock() {
 updateclock();
 setInterval(updateclock, 1000);
 // Part 3 Script Baseline
+
+// Date update 3
